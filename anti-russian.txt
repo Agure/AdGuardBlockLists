@@ -1,0 +1,14 @@
+! Блокування каналів по ID
+||youtube.com/channel/UCqpH4iRMB2x3Cw5l3wD3Ru^
+||youtube.com/channel/UC1kJjcC0cBG3s1Z1dDJJwow^
+
+! Блокування по назві користувача / @
+||youtube.com/@sputniknews^
+||youtube.com/@ria^
+||youtube.com/@rt_russian^
+
+! Блокування за ключовими словами у пошуку
+||youtube.com/results?search_query=*россия*^
+||youtube.com/results?search_query=*русский*^
+||youtube.com/results?search_query=*RU*^
+||youtube.com/results?search_query=*moscow*^
