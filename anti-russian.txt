@@ -1,4 +1,73 @@
-||youtube.com/channel/UCqpH4iRMB2x3Cw5l3wD3Ru^
+! ========================
+! ANTI-RUSSIAN BLOCKLIST
+! Для AdGuard Home (Home Assistant)
+! ========================
+
+! --- YouTube канали ---
 ||youtube.com/@sputniknews^
+||youtube.com/@rt_russian^
+||youtube.com/@ria^
+||youtube.com/@vesti^
+||youtube.com/@tass^
+||youtube.com/@1tv^
+||youtube.com/@ntv^
+||youtube.com/@russia24^
+||youtube.com/@rossiya1^
+||youtube.com/@life_news^
+||youtube.com/@izvestia^
+||youtube.com/@kommersant^
+||youtube.com/@kp.ru^
+||youtube.com/@gazeta.ru^
+
+! --- YouTube ключові слова (пошук) ---
 ||youtube.com/results?search_query=*россия*^
+||youtube.com/results?search_query=*российский*^
 ||youtube.com/results?search_query=*русский*^
+||youtube.com/results?search_query=*RU*^
+||youtube.com/results?search_query=*moscow*^
+||youtube.com/results?search_query=*kremlin*^
+||youtube.com/results?search_query=*putin*^
+||youtube.com/results?search_query=*лукашенко*^
+||youtube.com/results?search_query=*москва*^
+
+! --- Російські домени та портали ---
+||ria.ru^
+||rt.com^
+||sputniknews.com^
+||tass.ru^
+||gazeta.ru^
+||iz.ru^
+||kp.ru^
+||lenta.ru^
+||rg.ru^
+||rbc.ru^
+||kommersant.ru^
+||vesti.ru^
+||ntv.ru^
+||1tv.ru^
+||tvzvezda.ru^
+||life.ru^
+||mk.ru^
+||ura.news^
+||vz.ru^
+||pravda.ru^
+||kp.ru^
+||rosbalt.ru^
+
+! --- Соцмережі та сервіси РФ ---
+||vk.com^
+||ok.ru^
+||mail.ru^
+||yandex.ru^
+||yandex.com^
+||yandex.net^
+||yandex.ua^
+||yandex.by^
+||rutube.ru^
+||rutracker.org^
+||gosuslugi.ru^
+
+! --- Блокування .ru як TLD (повністю весь сегмент) ---
+||*.ru^
+||*.su^
+||*.rf^
